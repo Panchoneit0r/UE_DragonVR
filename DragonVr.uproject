@@ -35,7 +35,7 @@
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		},
-     		{
+   	{
 			"Name": "CineCameraRigs",
 			"Enabled": true
 		}
