@@ -32,6 +32,13 @@
 			]
 		},
 		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+     },
+     {
 			"Name": "CineCameraRigs",
 			"Enabled": true
 		}
